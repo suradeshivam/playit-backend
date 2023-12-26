@@ -1,0 +1,5 @@
+# PLAYIT VIDEO ENTERTAINMENT PLATFORM
+
+This is a fullstack project using MERN stack
+
+-[Model Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1qTjZGNVVvcFQwalQtSjhEc1BPX1IxNThOQXxBQ3Jtc0ttR0tNbGRJQ0hwcmhRUFk4MV9waDNEUVJ2TnQyNWlnRlRNRmpGOFJRWkF4VmNUM0ZudGduVDg5VmNwY3ZRQzRpTUdyVTJuZ3ppMnRXcXB1bDlxUU5aQWVhOGxjUzNIekRlLXMwRXltNDVza2MyVFBnTQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
